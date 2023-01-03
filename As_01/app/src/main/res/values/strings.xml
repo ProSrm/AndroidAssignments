@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckboxColor</string>
+    <string name="orange">Orange color</string>
+    <string name="green">Green color</string>
+    <string name="violet">Violet color</string>
+
+</resources>
